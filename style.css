@@ -33,7 +33,7 @@ body{
 }
 
 .home-inner{
-    background-image: url(img/computers.png);
+    background-image: url(img/justinwebsiteimg1.jpg);
 }
 .caption{
     width: 100%;
@@ -138,13 +138,13 @@ h3.heading{
 }
 
 .fixed{
-    background-image: url(img/apple.png);
+    background-image: url(img/justinwebsiteimg2.jpeg);
+    color: white;
     z-index: -1;
 }
 
 .dark{
-    background-color: rgba(0,0,0,0.75);
-    color: white;
+    background-color: rgba(189, 195, 199, 1);
     padding: 7rem 2rem;
 }
 
